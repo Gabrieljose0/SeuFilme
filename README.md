@@ -14,7 +14,7 @@ Este repositório contém um projeto desenvolvido em PHP que consome a API do Th
 -Interface Responsiva: A aplicação utiliza o Bootstrap para garantir que a interface seja agradável e responsiva em todos os dispositivos.
 
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 -PHP: Backend da aplicação para realizar as requisições à API do The Movie DB.
 
 
