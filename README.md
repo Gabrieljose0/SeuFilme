@@ -36,7 +36,7 @@ Para rodar o projeto localmente, você precisará de:
 -Servidor web (Apache ou Nginx)
 
 
-#Instalação
+# Instalação
 1. Clone este repositório:
 git clone https://github.com/Gabrieljose0/SeuFilme.git
 
@@ -49,5 +49,5 @@ cd SeuFilme
 php -S localhost:8000
 
 
-Licença
+# Licença
 Este projeto está licenciado sob a MIT License.
